@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tobi249-data
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... tobiikagu249@gmail.com 
